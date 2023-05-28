@@ -13,8 +13,7 @@ for any bug bounty. We advise you to be careful and experiment on the network at
 
 ### installation
 ```
-git clone https://github.com/vvsalwayscodin/greenfield_cli
-cd greenfield_cli
+
 
 # create vitrual machine
 virtualenv venv
@@ -284,3 +283,11 @@ gnfd crosschain mirror --resource object --id 1
 - [Greenfield-Contract](https://github.com/bnb-chain/greenfield-contracts): the cross chain contract for Greenfield that deployed on BSC network. .
 - [Greenfield-Storage-Provider](https://github.com/bnb-chain/greenfield-storage-provider): the storage service infrastructures provided by either organizations or individuals.
 - [Greenfield-Relayer](https://github.com/bnb-chain/greenfield-relayer): the service that relay cross chain package to both chains.
+
+
+
+
+## Authors
+
+Togamysov Abylkayir togamysovabil@gmail..com
+Zhambulov Sultanbek zambulovsultanbek@gmail.com
